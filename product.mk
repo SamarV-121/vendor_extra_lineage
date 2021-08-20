@@ -5,10 +5,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Build system
 BUILD_BROKEN_DUP_RULES := true
 
-# CameraGo
-PRODUCT_PACKAGES += \
-    CameraGo
-
 # Charger
 PRODUCT_PACKAGES += \
     product_charger_res_images
